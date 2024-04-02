@@ -157,7 +157,7 @@
   }
 
   .result{
-    background: rgb(7, 119, 189);
+    background: rgb(238, 136, 236);
     font-family: 'Courier New', Courier, monospace;
     text-transform: uppercase;
   }
@@ -379,13 +379,13 @@ section ul li:hover {
   =================================*/
 
   #contacts{
-    background-color: yellow;  
+    background-color: rgb(31, 95, 212);  
   }
 
   .text-contact{
     text-align: start;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: yellow;
+    background: rgb(31, 95, 212);
   }
 
   .submitBnt {
