@@ -8,5 +8,5 @@ O GitHub Pages é um serviço de hospedagem de site estático que usa arquivos H
 
 **Dessa forma, basta copiar o link `daianethaisb.github.io` e colar no navegador.**
 
-**Técnologias ultilizadas**
+**Técnologias ultilizadas:**
 HTML, CSS, JavaScript, jQuery e Bootstrap.
