@@ -1,6 +1,6 @@
 # Projeto Template
 
-> Desenvolvimento de projeto usando JavaScript - Template interativo (dados ficticios usados apenas para ilustração do template).
+> Desenvolvimento de projeto usando JavaScript - Template interativo.
 
 **Como executar**
 
