@@ -108,18 +108,18 @@ span.onclick = function() {
 
 //blog
 function redirecionarUrl(){
-    window.location.href = "http://www.google.com";
+    window.location.href = "https://sass-lang.com/";
 }
 
 function redirecionarLoad(){
 
    document.getElementById("loading").style.display = "block";
     setTimeout(function() {
-        window.location.href = "http://www.google.com";
+        window.location.href = "https://ecma-international.org/publications-and-standards/standards/ecma-262/";
     }, 5000);
 }
 
-//depoimentos
+//cursos
 var slideIndex = 1;
 mostrarSlides(slideIndex);
 
@@ -142,5 +142,3 @@ function mostrarSlides(n) {
   slides[n-1].style.display = "block";
   carrousel[n-1].className += " active";
 }
-
-
